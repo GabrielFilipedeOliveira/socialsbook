@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\core",
+    "\\media",
+    "\\media\\profile_images",
+    "\\social_book",
+    "\\static",
+    "\\templates"
+  ],
+  "SelectedNode": "\\core\\views.py",
+  "PreviewInSolutionExplorer": false
+}
